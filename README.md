@@ -1,8 +1,7 @@
-# **Shopify Website Clone (Tailwind CSS) ** 
-<!-- [![demo](https://img.shields.io/badge/PaytmClone-Live-orange)](https://dainty-paletas-c4fdd6.netlify.app/) -->
+# **Shopify Website Clone (Tailwind CSS) ** [![demo](https://img.shields.io/badge/ShopifyClone-Live-orange)](https://transcendent-puppy-a840bf.netlify.app/)
 
 
-<!-- This is my 1st project while learning tailwind css using only Tailwind CSS. -->
+> This is my 2nd project while learning tailwind css. This project is build using HTML and Tailwind CSS Only.
 
 <!-- ![Made with html & css](https://img.shields.io/badge/MADE%20WITH-HTML%26CSS-blue)  -->
 <!-- ![Time taken](https://img.shields.io/badge/TIME%20TAKEN-3hrs-orange) -->
